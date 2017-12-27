@@ -4,7 +4,4 @@ I created a FunkeBot as part of web development project from General Assembly. I
   
   
 
-<img src="FunkeBot.png" width="150">
-<img src="JudgeFunke.png" width="150">
-<img src="SantaFunke.gif" width="150">
-<img src="WorkFunke.png" width="150">
+<img src="FunkeBot.png" width="150"><img src="JudgeFunke.png" width="150"><img src="SantaFunke.gif" width="150">
