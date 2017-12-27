@@ -4,4 +4,4 @@ I created a FunkeBot as part of web development project from General Assembly. I
   
   
 
-![](FunkeBot.png =100x)
+<img src="FunkeBot.png" width="100">
